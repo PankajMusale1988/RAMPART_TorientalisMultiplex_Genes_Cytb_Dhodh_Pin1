@@ -1,0 +1,10 @@
+{
+  "name": "Theileria_orientalis",
+  "description": "Theileria_orientalis",
+  "url": "http://artic.network/",
+  "displayOptions": {
+    "coverageThresholds": {
+      ">100": 100, ">50x": 50, ">30x": 30, ">20x": 20, "0x": 0
+    }
+  }
+}
