@@ -21,6 +21,7 @@ conda activate artic-ncov2019
 conda install -c bioconda samtools
 
 Running RAMPART with the Set Up Environment:
+Go to the folder containing the fastq_pass files
 # Step 1: Activate Conda Environment
 conda activate artic-ncov2019
 
