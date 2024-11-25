@@ -32,3 +32,6 @@ rampart --protocol /path_to_folder_rampart_files/ --basecalledPath fastq_pass/
 
 # Alternative command if default ports are in use
 rampart --protocol /path_to_folder_rampart_files/ --basecalledPath fastq_pass/ --ports 3002 3004
+
+# Contributing
+Contributions to improve the script or add new features are welcome. Please submit a pull request or open an issue for discussion.
