@@ -34,4 +34,5 @@ rampart --protocol /path_to_folder_rampart_files/ --basecalledPath fastq_pass/
 rampart --protocol /path_to_folder_rampart_files/ --basecalledPath fastq_pass/ --ports 3002 3004
 
 # Contributing
-Contributions to improve the script or add new features are welcome. Please submit a pull request or open an issue for discussion.
+Contributions to improve the script or add new features are welcome. 
+Please fork the repository, make your changes, and submit a pull request or open an issue for discussion.
